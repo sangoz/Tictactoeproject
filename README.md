@@ -21,6 +21,10 @@
 - Trình biên dịch C++
 - Hệ điều hành Windows
 
+## Thoát
+
+Để thoát khỏi trò chơi, bạn có thể nhập từ khóa "exit" khi được yêu cầu chọn chế độ chơi. Khi bạn nhập "exit", trò chơi sẽ kết thúc và chương trình sẽ thoát.
+
 ## Tác Giả
 
 - **Tác Giả**: [2SDT]
