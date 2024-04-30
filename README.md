@@ -21,7 +21,7 @@
 - Trình biên dịch C++
 - Hệ điều hành Windows
 
-## Tác Giả và Giấy Phép
+## Tác Giả
 
 - **Tác Giả**: [2SDT]
 
